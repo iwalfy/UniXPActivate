@@ -1,5 +1,6 @@
 # UniXPActivate
-## POSIX port of xp_activate32.exe
+
+POSIX port of xp_activate32.exe
 
 ## Usage
 
